@@ -21,7 +21,7 @@ The **second one**: transmit my knowledge. The same way that I have learned and 
 ## **My tech skills**
 Here are some of the programs and tech skills that I master 😎:
 
-![Tech skills](images/stack-hills.png)
+![Tech skills](stack-hills.png)
 
 ---
 ## 📚 What I'm studying right now?
