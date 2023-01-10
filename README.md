@@ -34,7 +34,7 @@ Here are some of the programs and tech skills that I master 😎:
 
 ## 🌱 Are you working on any side projects right now?
 
-**Yes**. I'm doing a project called **[Homuai][homuai-url]**. It's a free app (.NET MAUI) and API (.NET Core 6) with the primary purpose of helping people that lives together to be more organized. It will help people improve their organization and domestic tasks around their house.
+**Yes**. I'm doing a project called **[Homuai][homuai-url]**. It's a free app (.NET MAUI) and API (.NET Core 7) with the primary purpose of helping people that lives together to be more organized. It will help people improve their organization and domestic tasks around their house.
 
 Life can get busy and sometimes we forget things like: paying the rent; going to the supermarket and letting the products expire in the fridge. When I was living with some friends (three to be more specific) and sometimes hard to keep everything organized amoung us. At that time I did not find a good App that really suited my needs, so I thought: why can’t I make it **myself** to solve this issue?
 
