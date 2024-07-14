@@ -7,7 +7,7 @@
 
 ## 👦 **About me**
 
-I'm a Brazilian computer engineer living in Lisbon, Portugal. I have been working with technology since 2015 and during this period of my professional life, I have worked with the most diversified types of projects such as: **back-end**, **mobile** and **DevOps**.
+I have been working with technology since 2015 and during this period of my professional life, I have worked with the most diversified types of projects such as: **back-end**, **mobile** and **DevOps**.
 
 If you were to ask me about my favorite project that I've ever worked on, I would always say that it's the one coming next. I believe that each new project comes with its own unique set of challenges and opportunities for growth. I believe that there is always space to improve ourselves.
 
